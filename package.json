@@ -8,7 +8,7 @@
   "typings": "./material.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular/material2.git"
+    "url": "https://github.com/jasnoponjatno/material.git"
   },
   "keywords": [
     "angular",
